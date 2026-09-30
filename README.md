@@ -2,11 +2,12 @@
 
 # Raúl Andrés Alzate Gómez
 
-### Senior Software Architect · Arquitecto de Soluciones e IA Generativa en AWS
+### Fundador de [Doctiling](https://www.doctiling.app) · Senior Software Architect · Arquitecto de Soluciones e IA Generativa en AWS
 
 **13+ años construyendo software y 10 diseñando arquitectura para banca, pensiones y seguros.
 Hoy llevo la IA generativa a producción — con gobierno, seguridad y agentes que cumplen las reglas.**
 
+[![Doctiling](https://img.shields.io/badge/Fundador-Doctiling-111827?style=for-the-badge)](https://www.doctiling.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ralzate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralzate/)
 [![Remoto](https://img.shields.io/badge/Colombia-Remoto-2EA44F?style=for-the-badge)](#)
 
@@ -24,6 +25,23 @@ Hoy llevo la IA generativa a producción — con gobierno, seguridad y agentes q
 > **Una regla sin un comando que la haga fallar es una sugerencia.**
 
 Diseño la arquitectura que aguanta el crecimiento y la infraestructura que hace que los agentes de IA trabajen **dentro** de las reglas de tu equipo. Decisiones con trade-offs explícitos, riesgos a la vista y comunicación clara con negocio y tecnología.
+
+---
+
+## 🚀 Fundador de Doctiling
+
+> **"Tu información, convertida en conocimiento. Curado por expertos, trabajado por agentes."**
+
+**[Doctiling](https://www.doctiling.app)** es la plataforma de gestión del conocimiento que fundé para equipos que viven entre documentos. Reúne tus fuentes, las estructura, deja que los expertos validen y pone a trabajar agentes de IA que **citan cada respuesta hasta el bloque exacto de donde salió**.
+
+- 📄 **Documentos vivos** de texto, tabla y grafo, editables por expertos y por agentes.
+- 🔍 **17 lentes de análisis** con un clic sobre documentos, tablas y grafos.
+- 📌 **Citas exactas a nivel de bloque**: nada de respuestas sin fuente.
+- 🗄️ **SQL en lenguaje natural** sobre 4 motores de base de datos.
+- 🔌 **MCP** para conectarla con tus herramientas y agentes, con roles y multi-tenancy.
+
+Para equipos legales, consultoras, investigadores, analistas, equipos de producto y estudiantes de posgrado.
+**[→ Solicita tu acceso gratis](https://www.doctiling.app)**
 
 ---
 
@@ -81,6 +99,7 @@ Diseño la arquitectura que aguanta el crecimiento y la infraestructura que hace
 
 | Periodo | Rol | Dónde |
 |---|---|---|
+| Hoy | **Fundador** | [Doctiling](https://www.doctiling.app) |
 | 2022 – hoy | **Senior Software Architect** · CoE de Arquitectura | Sofka Technologies |
 | 2021 – hoy | **Líder Académico** (AWS, Kubernetes, DDD) | Sofka Technologies |
 | 2020 – 2021 | Technical Coach | Sofka Technologies |
@@ -115,7 +134,7 @@ Diseño la arquitectura que aguanta el crecimiento y la infraestructura que hace
 
 <div align="center">
 
-**¿Tu equipo quiere adoptar agentes de IA sin perder el control, o llevar IA generativa a producción con arquitectura que aguante?**
+**¿Tu equipo quiere adoptar agentes de IA sin perder el control, llevar IA generativa a producción con arquitectura que aguante, o convertir sus documentos en conocimiento con [Doctiling](https://www.doctiling.app)?**
 
 [![Hablemos en LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralzate/)
 
