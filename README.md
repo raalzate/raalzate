@@ -137,6 +137,7 @@ Para equipos legales, consultoras, investigadores, analistas, equipos de product
 **¿Tu equipo quiere adoptar agentes de IA sin perder el control, llevar IA generativa a producción con arquitectura que aguante, o convertir sus documentos en conocimiento con [Doctiling](https://www.doctiling.app)?**
 
 [![Hablemos en LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralzate/)
+[![Pregunta sobre el arnés](https://img.shields.io/badge/Pregunta_sobre_el_arnés-Discussions-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raalzate/agent-harness/discussions)
 
 <sub>Los proyectos anteriores a 2025 están archivados: siguen disponibles, pero aquí muestro lo que construyo hoy.</sub>
 
