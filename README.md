@@ -7,6 +7,8 @@
 **13+ años construyendo software y 10 diseñando arquitectura para banca, pensiones y seguros.
 Hoy llevo la IA generativa a producción — con gobierno, seguridad y agentes que cumplen las reglas.**
 
+<sub>🌎 <i>Founder of Doctiling · Senior Software Architect · Generative AI on AWS · Claude Certified Architect · Kubernetes. I make AI coding agents follow your team's rules.</i></sub>
+
 [![Doctiling](https://img.shields.io/badge/Fundador-Doctiling-111827?style=for-the-badge)](https://www.doctiling.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ralzate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralzate/)
 [![Remoto](https://img.shields.io/badge/Colombia-Remoto-2EA44F?style=for-the-badge)](#)
