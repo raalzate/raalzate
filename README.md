@@ -47,12 +47,11 @@ Para equipos legales, consultoras, investigadores, analistas, equipos de product
 
 ## Lo que hago hoy
 
-- 🏦 **Arquitectura empresarial en banca digital** — aceleración digital de **Banco Pichincha** sobre el core **Mambu**, con legacy y microservicios conviviendo y gobierno desde el **Centro de Excelencia de Arquitectura**.
-- 🤖 **IA generativa en producción** — banca conversacional sobre AWS que separa lo transaccional determinista de lo que responde un LLM, con estrategia híbrida **Azure OpenAI + AWS Bedrock** como contingencia.
 - 📐 **Preventa gobernada por agentes** — metodología de estimación con agentes de IA (**COSMIC ISO/IEC 19761**, índice de complejidad y factor de productividad por IA) que compara esfuerzo con y sin agentes.
 - 🛡️ **Harness engineering** — hooks, gates y frenos probados para **Claude Code** y otros agentes de código: la IA acelera sin romper lo que no debe.
+- 🤖 **IA generativa en producción** — banca conversacional sobre AWS que separa lo transaccional determinista de lo que responde un LLM, con estrategia híbrida **Azure OpenAI + AWS Bedrock** como contingencia.
 - 🎓 **Líder Académico en Sofka** desde 2021 — rutas de aprendizaje y katas de **AWS, Kubernetes y DDD**, y mentoría de arquitectos.
-
+- 🏦 **Arquitectura empresarial en banca digital** — aceleración digital de **Banco Pichincha** sobre el core **Mambu**, con legacy y microservicios conviviendo y gobierno desde el **Centro de Excelencia de Arquitectura**.
 ---
 
 ## Qué puedo hacer por tu equipo
