@@ -74,7 +74,7 @@ Para equipos legales, consultoras, investigadores, analistas, equipos de product
 ### 🛡️ Ingeniería de agentes
 
 - **[agent-harness](https://github.com/raalzate/agent-harness)** — Arnés portable para agentes de código: hooks del ciclo del agente, gate declarativo, self-test que prueba que cada freno *muerde* y un ciclo que convierte cada incidente en un mecanismo. Agnóstico de lenguaje, sin dependencias, en Windows, macOS y Linux. **[→ sitio](https://raalzate.github.io/agent-harness/)**
-- **[hermes-harness](https://github.com/raalzate/hermes-harness)** — El mismo método para **Hermes Agent** (Nous Research): frenos en herramientas, memoria, skills y cron para un agente que aprende y corre desatendido.
+- **[hermes-autopilot](https://github.com/raalzate/hermes-autopilot)** — El mismo método para **Hermes Agent** (Nous Research): frenos en herramientas, memoria, skills y cron para un agente que aprende y corre desatendido. **[→ sitio](https://raalzate.github.io/hermes-autopilot)**
 
 ### 🧩 Arquitectura y dominio con IA
 
